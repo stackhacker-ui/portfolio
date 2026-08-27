@@ -22,7 +22,7 @@
   "dependencies": {
     "@iconify-json/mdi": "^1.2.3",
     "@iconify-json/simple-icons": "^1.2.93",
-    "@nuxt/icon": "^2.5.0",
+    "@nuxt/icon": "^2.5.1",
     "@nuxtjs/color-mode": "^3.5.2",
     "@tailwindcss/vite": "^4.3.3",
     "class-variance-authority": "^0.7.1",
